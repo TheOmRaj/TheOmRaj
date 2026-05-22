@@ -17,7 +17,7 @@
 
 ### About
 
-I'm a CS student from India who likes building things end-to-end — from the database schema to the deployed URL. Comfortable with full-stack web, with a side interest in Linux, networking, and security.
+I'm a CSE student from Nepal, currently studying in India, who likes building things end-to-end — from the database schema to the deployed URL. Comfortable with full-stack web, with a side interest in Linux, networking, and security.
 
 - 🔭 Currently building &nbsp;·&nbsp; full-stack web apps with real users
 - 🌱 Currently learning &nbsp;·&nbsp; system design, databases, and shipping under deadlines
